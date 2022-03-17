@@ -58,7 +58,7 @@
   </tr>
     </tr>
     <tr align="center">
-      <td>  </td> <td>  </td> <td> 2021.08 ~ 2021.12 </td> <td> RE:MASK </td>
+      <td> 2022.02 </td> <td> 꿀단지: https://ddwoutlier.github.io/gguldanji/ </td> <td> 2021.08 ~ 2021.12 </td> <td> RE:MASK </td>
   </tr>
 </table>
 
